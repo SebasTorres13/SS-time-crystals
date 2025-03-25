@@ -1,5 +1,5 @@
 # Preface {.unnumbered}
 
-This is a Quarto book.
+En el presente repositorio se encuuentran las notas del servivio social
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.
