@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "SS time crystals",
     "section": "",
-    "text": "Preface\nEn el presente repositorio se encuuentran las notas del servivio social\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Preface\nEn el presente repositorio se encuuentran las notas del servivio social\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\nfrom pylab import *\nx=linspace(0,1)\nf=sin(x)\nplot(x,f)",
     "crumbs": [
       "Preface"
     ]
