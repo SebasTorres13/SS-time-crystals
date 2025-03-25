@@ -6,9 +6,15 @@ To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
 
 ```{python}
+#| label: fig-etiqueta
+#| fig-cap: "Gráfica $$f(x)=sin(x)$$" 
 
 from pylab import *
 x=linspace(0,1)
 f=sin(x)
 plot(x,f)
 ```
+
+$$
+F(x)=sin(x)
+$$
